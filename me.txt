@@ -1,2 +1,3 @@
 Nom: Aboubacar Abdou Abarchi
 age: 25
+taille : 1.80&
